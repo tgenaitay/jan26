@@ -13,6 +13,15 @@ ONE DAY OF CODE
 3. **Build your own!** [Here's an example...](https://tgenaitay.github.io/xnode-landing/)
 4. Want to go down the rabbit hole? [Change your life](http://www.lewagon.com/shanghai)
 
+### Javascript intro Course
+
+ONE DAY OF CODE
+
+`Update: Jan 25`
+
+1. [Do this assignment!](js/)
+2. [Download the slides](js/Le Wagon - JavaScript for Beginners.pdf)
+
 Stay in touch:
 
 ![QRcode](https://tgenaitay.github.io/jan26/images/QRCodeLeWagon.gif)
