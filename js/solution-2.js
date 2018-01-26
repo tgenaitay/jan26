@@ -1,7 +1,7 @@
 var btn = document.getElementById("clickme");
 // this variable contains the element with id='clickme'
 
-btn.addEventListener("click", animate;
+btn.addEventListener("click", animate);
 // this listener waits for a click to call the animate() function
 
 function animate(event){
